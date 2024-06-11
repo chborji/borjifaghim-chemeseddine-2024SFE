@@ -1,0 +1,5 @@
+{
+    "html.validate.styles": false,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    //"enable_typescript_language_service": false
+}
